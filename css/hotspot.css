@@ -1,0 +1,125 @@
+/* settings for img hispeed*/
+
+.box {
+  width: 100%;
+  background: #ffcccc; /*  70% opaque green */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.mass {
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 900;
+  color: black;
+  background-color: #f1f2f6 !important;
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset,
+    rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+/* settings items in navbar*/
+ul li a {
+  font-size: 1rem !important;
+}
+
+.fa_menu {
+  color: #17c0eb !important;
+  font-size: 20px;
+}
+.social-media p a {
+  border: 1px solid #6c5ce7;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.social-media p a:hover {
+  background-color: #bbdefb;
+  border: none;
+}
+.social-media .tit {
+  font-weight: 600;
+}
+.num {
+  font-size: 1.5rem;
+  color: red;
+}
+.btn_call {
+  font-size: 1.4rem;
+  color: white !important;
+  font-weight: 800;
+
+  background-color: #6c5ce7 !important;
+  outline: none;
+  border: none;
+  width: 70%;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.btn_call:hover {
+  outline: none;
+  border: none;
+  background-color: #ff4757 !important;
+}
+.Copyright {
+  background-color: black !important;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  font-size: 0.8rem;
+  color: #b0bec5;
+}
+.Copyright a {
+  color: white !important;
+  font-size: 1rem;
+}
+#contact h4 {
+  font-weight: 600;
+}
+#contact p {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.spicifcation p {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.spicifcation h2 {
+  font-weight: 600;
+}
+.fa-brands {
+  font-size: 2.8rem;
+}
+.fa-facebook {
+  color: #4267b2;
+}
+.fa-instagram {
+  color: red;
+}
+.fa-whatsapp {
+  color: #25d366;
+}
+.fa-solid {
+  font-size: 1.5rem;
+}
+.fa-location-dot {
+  color: red !important;
+}
+.fa-envelope {
+  color: black;
+}
+.fa-phone {
+  color: blue;
+}
